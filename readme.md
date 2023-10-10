@@ -7,3 +7,5 @@ A simple repo to help us learn Git.
 3. Fork and clone this repo
 4. Edit `readme.md` under `student` folder
 5. Push your changes.
+
+making changes
